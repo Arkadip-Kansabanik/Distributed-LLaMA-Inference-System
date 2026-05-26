@@ -406,14 +406,6 @@ cd Distributed-LLaMA-Inference-System
 
 ---
 
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Start Worker Nodes
 
 ```bash
