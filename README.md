@@ -393,7 +393,7 @@ The system can be applied in:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/distributed-llama-inference.git
+git clone https://github.com/Arkadip-Kansabanik/Distributed-LLaMA-Inference-System.git
 ```
 
 ---
@@ -401,7 +401,7 @@ git clone https://github.com/your-username/distributed-llama-inference.git
 ## Navigate to Project Directory
 
 ```bash
-cd distributed-llama-inference
+cd Distributed-LLaMA-Inference-System
 ```
 
 ---
